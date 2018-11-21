@@ -1,0 +1,10 @@
+C:\Users\jrondon\source\repos\Expo\Expo\bin\Debug\Expo.exe.config
+C:\Users\jrondon\source\repos\Expo\Expo\bin\Debug\Expo.exe
+C:\Users\jrondon\source\repos\Expo\Expo\bin\Debug\Expo.pdb
+C:\Users\jrondon\source\repos\Expo\Expo\obj\Debug\Expo.csprojAssemblyReference.cache
+C:\Users\jrondon\source\repos\Expo\Expo\obj\Debug\Expo.Properties.Resources.resources
+C:\Users\jrondon\source\repos\Expo\Expo\obj\Debug\Expo.csproj.GenerateResource.cache
+C:\Users\jrondon\source\repos\Expo\Expo\obj\Debug\Expo.csproj.CoreCompileInputs.cache
+C:\Users\jrondon\source\repos\Expo\Expo\obj\Debug\Expo.exe
+C:\Users\jrondon\source\repos\Expo\Expo\obj\Debug\Expo.pdb
+C:\Users\jrondon\source\repos\Expo\Expo\obj\Debug\Expo.Expo.resources
